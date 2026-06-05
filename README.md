@@ -1,4 +1,5 @@
 Projekt: Analiza recenzji hotelowych przy użyciu technik text mining.
+
 W ramach projektu wykorzystujemy techniki takie jak: 
 - analiza TF-iDF
 - klasyfikacja
